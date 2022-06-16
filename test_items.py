@@ -2,7 +2,7 @@ import time
 
 
 link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
-time.sleep(30)
+
 
 
 def test_guest_should_see_add_to_basket_batton(browser):
